@@ -4,13 +4,14 @@ const List = (props) => {
 const {list, myName} = props;
     return (
         <>
+            <h3>Things I need to do:</h3>
             <ul>
-                <li>Blue Eyes White Dragon</li>
-                <li>Dark Magician Girl</li>
-                <li>Kuriboh</li>
-                <li>Red Eyes Balck Dragon</li>
-                <li>Stardust Dragon</li>
-                <li>Left Leg of the Forbidden One</li>
+                <li>Get my stuff together</li>
+                <li>Get it all together</li>
+                <li>Put it all in a bag</li>
+                <li>Take it to the stuff store</li>
+                <li>Take it to a stuff museum</li>
+                <li>Just get my stuff together</li>
             </ul>
 
             <ul>
